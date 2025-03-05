@@ -4,8 +4,11 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about both fron
 🚀 About Me
 🌟 Current Role: Software Engineer
 💻 Tech Stack:
+
 Backend: Express js , Spring Boot, Spring Data JPA .
+
 Frontend: Angular , React.
+
 Security:  JWT.
 
 <!--

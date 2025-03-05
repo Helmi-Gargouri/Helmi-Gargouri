@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about both fron
 🚀 About Me
 🌟 Current Role: Software Engineer
 💻 Tech Stack:
-Backend: Express js , Spring Boot, Spring Data JPA, 
-Frontend: Angular , React
-Security:  JWT
+Backend: Express js , Spring Boot, Spring Data JPA .
+Frontend: Angular , React.
+Security:  JWT.
 
 <!--
 **Helmi-Gargouri/Helmi-Gargouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

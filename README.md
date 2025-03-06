@@ -6,11 +6,15 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about both fron
 💻 Tech Stack:
 
 Backend: Express js , Spring Boot, Spring Data JPA .
+
 Frontend: Angular , React.
+
 Security:  JWT.
 
 📫 How to Reach Me
+
 🌐 [LinkedIn](https://www.linkedin.com/in/helmi-gargouri/)
+
 📧 Email: helmi.gargouri1@gmail.com
 
 

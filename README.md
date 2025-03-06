@@ -11,6 +11,11 @@ Frontend: Angular , React.
 
 Security:  JWT.
 
+📫 How to Reach Me
+🌐 [LinkedIn](https://www.linkedin.com/in/helmi-gargouri/)
+📧 Email: helmi.gargouri1@gmail.com
+Thank you for visiting my profile! Check out my repositories to see some of my work and contributions. Happy coding! 🚀
+
 <!--
 **Helmi-Gargouri/Helmi-Gargouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
